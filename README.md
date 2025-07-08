@@ -2,13 +2,13 @@
 
 A simple full-stack task management application demonstrating Docker Compose with multiple services.
 
-## 🏗️ Architecture
+## 🏗 Architecture
 
 - Frontend: React.js application (Port 3000)
 - Backend: Node.js/Express REST API (Port 5000)  
 - Database: PostgreSQL (Port 5432)
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Docker
